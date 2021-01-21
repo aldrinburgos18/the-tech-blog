@@ -1,5 +1,6 @@
 const router = require("express").Router();
 
+//create variable for routes
 const userRoutes = require("./user-routes");
 const postRoutes = require("./post-routes");
 const commentRoutes = require("./comment-routes");
